@@ -44,7 +44,7 @@ const items = [
     title: 'Dashboard'
   },
   {
-    href: '/app/managehomepage',
+    href: '/app/settings',
     icon: HomeIcon,
     title: 'Manage Homepage'
   },
@@ -54,7 +54,7 @@ const items = [
     title: 'Users'
   },
   {
-    href: '/app/artists',
+    href: '/app/customers',
     icon: UserIcon,
     title: 'Artists'
   },
